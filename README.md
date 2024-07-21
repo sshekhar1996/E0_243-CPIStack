@@ -1,8 +1,4 @@
-Steps to run the scripts for problem 2
-
-# Unzipping the package
-
-Unzip the package names Problem2.zip using any unzipping tool.
+Obtaining CPI Stack using Performance Monitoring Counters and Linear Regression
 
 # Installing python packages
 
