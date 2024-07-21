@@ -1,4 +1,7 @@
-Obtaining CPI Stack using Performance Monitoring Counters and Linear Regression
+# Obtaining CPI Stack using Performance Monitoring Counters and Linear Regression
+
+This project uses linear regression for predicting the CPI (cycles per instruction) stack values for the test sets and finally report the CPI stack for all of the assigned SPEC benchmark programs.
+
 
 # Installing python packages
 
